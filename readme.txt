@@ -9,3 +9,4 @@ creating a new branch is quick & simple.
 creating two new branch is quick and simple.
 
 >>>>>>> feature1
+creating another brand for leaning brand management stategy
